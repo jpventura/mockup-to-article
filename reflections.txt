@@ -5,5 +5,9 @@ You've learned a lot about web development so far. I want you to take a moment t
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 ---
+  * I learned how to properly create styles using CSS.
+  * All JavaScript part because I am a backend developer.
+  * Responsive layouts and queries..
+  * Basically I search on Google and Stack Overflow for specific HTML/CSS features I wish to trigger.
 
 Your response goes here!
